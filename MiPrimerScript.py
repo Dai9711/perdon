@@ -12,8 +12,8 @@ def start(Update , context) :
 
 if __name__ == '__main__':
 	
-	bot = telegram.Bot(token= "1997378025:AAFYwWKM0dHhKV_JHUl6YTpC_nx6X0nhAVo")
-	updater = Updater(token= "1997378025:AAFYwWKM0dHhKV_JHUl6YTpC_nx6X0nhAVo" ,  use_context=True)
+	bot = telegram.Bot(token= "1959792599:AAG0thQMSTvJ9783vsc5lUkxKeXO-07P2Zo")
+	updater = Updater(token= "1959792599:AAG0thQMSTvJ9783vsc5lUkxKeXO-07P2Zo" ,  use_context=True)
 	
 	update = Updater
 	dp = updater.dispatcher
